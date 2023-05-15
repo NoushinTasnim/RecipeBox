@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:iconTint="@color/text_color"
+            android:id="@+id/nav_recipe"
+            android:title="Recipes">
+
+            <menu>
+
+                <item
+                    android:iconTint="@color/text_color"
+                    android:id="@+id/nav_search_recipes"
+                    android:title="Search Recipes"
+                    android:icon="@drawable/ic_baseline_search_24"/>
+
+                <item
+                    android:iconTint="@color/text_color"
+                    android:id="@+id/nav_up"
+                    android:title="Upload Recipe"
+                    android:icon="@drawable/ic_baseline_add_circle_24"/>
+
+                <item
+                    android:iconTint="@color/text_color"
+                    android:id="@+id/nav_my_recipes"
+                    android:icon="@drawable/ic_baseline_format_quote_24"
+                    android:title="My Recipes"/>
+
+
+                <item
+                    android:iconTint="@color/text_color"
+                    android:id="@+id/nav_discover"
+                    android:title="Discover"
+                    android:icon="@drawable/ic_baseline_home_24"/>
+
+            </menu>
+
+            </item>
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_user"
+            android:title="User">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_user_profile"
+                    android:title="Profile"
+                    android:icon="@drawable/ic_baseline_person_pin_24"
+                    android:iconTint="@color/text_color"/>
+
+                <item
+                    android:id="@+id/search_user"
+                    android:icon="@drawable/ic_baseline_person_pin_circle_24"
+                    android:iconTint="@color/text_color"
+                    android:title="Search Users"/>
+
+                <item
+                    android:id="@+id/sign_out"
+                    android:icon="@drawable/ic_baseline_person_remove_24"
+                    android:iconTint="@color/text_color"
+                    android:title="Sign Out"/>
+
+
+                <item
+                    android:id="@+id/del_user"
+                    android:icon="@drawable/ic_baseline_delete_24"
+                    android:iconTint="@color/text_color"
+                    android:title="Delete Account"/>
+
+            </menu>
+        </item>
+    </group>
+</menu>

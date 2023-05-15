@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/drawable/ic_google__g__logo.xml" value="0.1715" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/drawable/ic_launcher_bg.xml" value="0.1715" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1715" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/drawable/ic_outline_person_24.xml" value="0.1715" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/drawable/splash_screen.xml" value="0.1715" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_forget_password.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_forgot_pass_reset.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_on_this_day.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_other_user.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_otpverify.xml" value="0.264" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_phone_number_verify.xml" value="0.2359375" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_quote.xml" value="0.264" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_quote_of_the_day.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_tab.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_update_profile.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_update_profile2.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_user_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/activity_verify_email.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/app_bar_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/birth_layout.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/content_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/drawer_items.xml" value="0.1" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/dropdown_item.xml" value="0.18671875" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_a.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_b.xml" value="0.2359375" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_birth.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_contact_us.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_death.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_discover.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_events.xml" value="0.2359375" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_favourite_quotes.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_home_tab.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_my_quotes.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_my_quotes_tab.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_quote_of_the_day.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_random_quotes.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_tab.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_tune_feed.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_update_email_address.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_update_password.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_upload_quote.xml" value="0.2359375" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_uploaded_quotes.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/fragment_who_are_we.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/header_lay.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/menu_header.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/quotes_fetched.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/row_layout.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/today_layout.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/user_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/layout/user_search.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/menu/menu_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/menu/navigation_items.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/noush/AndroidStudioProjects/QuotePad/app/src/main/res/menu/user_menu.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable-v24/rounded_box_fill.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable-v24/splash_screen.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.145" />
+        <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_forgot_pass_reset.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_on_this_day.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_other_user.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_otpverify.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_phone_number_verify.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_recipe_viewer.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_recipe_viewer_img.xml" value="0.128125" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1276595744680851" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_user_profile.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_birth.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_contact_us.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_create_meal_plan.xml" value="0.14847161572052403" />
+        <entry key="app/src/main/res/layout/fragment_death.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_discover.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_events.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_favourite_quotes.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_mealplan.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_quote_of_the_day.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_random_quotes.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_recipe_viewer.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_recipe_viewer2.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_search_recipe.xml" value="0.24010416666666667" />
+        <entry key="app/src/main/res/layout/fragment_search_recipes_by_cuisine.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_search_recipes_by_dish.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_search_recipes_by_meal.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_update_email_address.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_update_password.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_upload_quote.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_upload_recipe.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_upload_recipe_dish.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_upload_recipe_ingredient.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_upload_recipe_instruction.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_uploaded_quotes.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/fragment_who_are_we.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/menu_header.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/quotes_fetched.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/recipes_fetched.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/row_layout.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/row_layout2.xml" value="0.1640625" />
+        <entry key="app/src/main/res/layout/today_layout.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/user_search.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/menu/menu_scrolling.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/menu/user_menu.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.116" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.24114583333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

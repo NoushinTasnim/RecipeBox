@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_accent"
+    tools:context=".nav_frags.recipe.RecipeViewerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/light_accent"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/recipe_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recipe Name"
+            android:layout_marginHorizontal="10dp"
+            android:paddingVertical="20dp"
+            android:gravity="left"
+            android:textSize="36sp"
+            android:textAllCaps="true"
+            android:textColor="@color/main_color"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recipe_prep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text=""
+            android:paddingTop="10dp"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recipe_cuisine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text=""
+            android:paddingTop="10dp"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ingredients"
+            android:layout_marginHorizontal="10dp"
+            android:paddingVertical="10dp"
+            android:gravity="left"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp"
+            android:layout_marginHorizontal="10dp"
+            app:cardBackgroundColor="@color/light_accent"
+            app:cardElevation="10dp"
+            app:contentPadding="10dp"
+            android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/recipe_ing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:gravity="left"
+            android:textSize="18sp"
+            android:textColor="@color/black"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/whoknows"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="Instructions"
+            android:paddingVertical="10dp"
+            android:gravity="left"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            app:cardCornerRadius="15dp"
+            app:cardBackgroundColor="@color/light_accent"
+            app:cardElevation="10dp"
+            app:contentPadding="10dp"
+            android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/recipe_inst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:gravity="left"
+            android:textSize="18sp"
+            android:textColor="@color/black"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/whocares"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uploaded On:"
+            android:layout_marginHorizontal="10dp"
+            android:paddingTop="10dp"
+            android:gravity="right"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recipe_tm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginHorizontal="10dp"
+            android:paddingTop="5dp"
+            android:gravity="right"
+            android:textSize="20sp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id ="@+id/rec_up_au"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uploaded By:"
+            android:layout_marginHorizontal="10dp"
+            android:paddingTop="10dp"
+            android:gravity="right"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recipe_aut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginHorizontal="10dp"
+            android:paddingTop="5dp"
+            android:gravity="right"
+            android:textSize="20sp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>
